@@ -567,7 +567,19 @@ footer .copyright{
     text-decoration: none;
 }
 
-/* Շարունակելի... */
+/* /* blog Page * */
+
+.blog-header{
+    background-image: url("images/banner/b19.jpg");
+    width: 100%;
+    height: 40vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    padding: 14px;
+}
   
 
 /* Single Product */
